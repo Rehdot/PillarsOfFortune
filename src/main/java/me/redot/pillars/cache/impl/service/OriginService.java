@@ -38,7 +38,7 @@ public class OriginService {
         } else {
             this.x += this.step;
         }
-        return new Location(this.world, this.x, 100, this.z);
+        return new Location(this.world, this.x, this.y, this.z);
     }
 
     public int getX() {
