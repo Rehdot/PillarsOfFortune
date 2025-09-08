@@ -1,0 +1,5 @@
+name: PillarsOfFortune
+author: Redot
+main: me.redot.pillars.PillarsPlugin
+api-version: '1.21.5'
+version: 1.0
